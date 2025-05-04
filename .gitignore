@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Data and models (we don’t commit big files)
+data/
+Dataset/
+server/test_data/
+*.h5
+*.zip
+*.jpg
+*.png
+*.jpeg
+*.gif
+
+# IDE files
+.vscode/
+
+# Node (if you have a JS frontend)
+node_modules/
+
+# Logs
+*.log
